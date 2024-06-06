@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá !! Sou o Igor keven , Desenvolvedor de software e ensino programação no meu canal no <a href="https://www.youtube.com/igorkeven">You-Tube</a>
 
 <!--
 **igorkeven/igorkeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorkeven&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorkeven&repo=github-readme-stats)](https://github.com/igorkeven/github-readme-stats)
 
