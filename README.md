@@ -1,18 +1,9 @@
-# Igor Keven - Desenvolvedor de Software e Educador
-Olá! 👋 Sou o Igor Keven, um apaixonado por programação e tecnologia. Meu objetivo é criar soluções inovadoras e compartilhar conhecimento com a comunidade. Aqui estão alguns detalhes sobre mim:
 
-# 💻 Desenvolvedor Full Stack: 
-Tenho experiência em desenvolvimento web, aplicativos móveis e sistemas escaláveis.
-# 🎥 Canal no YouTube:
-No meu canal <a href="https://www.youtube.com/igorkeven" target="_blank" >Programador Aprendiz</a>, compartilho tutoriais, dicas e truques sobre programação, frameworks e ferramentas.
-# 🌐 Blog e Redes Sociais: 
-Além do YouTube, você pode me encontrar no meu blog pessoal e nas redes sociais, onde discuto tendências, desafios e oportunidades na área de tecnologia.
-# 📚 Apaixonado por Aprendizado:
-Estou sempre estudando e explorando novas tecnologias. Acredito que o aprendizado contínuo é essencial para o sucesso na área de TI.
-##
-Se você tiver alguma pergunta ou quiser colaborar em projetos interessantes, sinta-se à vontade para entrar em contato! 😊🚀
-##
+# Igor Keven - Desenvolvedor de Software
+Olá! 👋 Sou o Igor Keven, um apaixonado por programação e tecnologia. Meu objetivo é criar soluções inovadoras e compartilhar conhecimento com a comunidade, tenho um canal no youTube onde ensino programação de uma maneira simpes e descomplicada.. <a href="https://www.youtube.com/igorkeven" target="_blank" style="text-decoration: none;">Venha Conferir!!</a>
 
+
+##
 
 <a href="https://igorkeven.github.io/index.html">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=igorkeven&show_icons=true&theme=ocean_dark" />
@@ -34,6 +25,7 @@ Se você tiver alguma pergunta ou quiser colaborar em projetos interessantes, si
 </div>
 
 ##
+
 <div> 
   <a href="https://www.youtube.com/igorkeven" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kevenigor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -44,6 +36,22 @@ Se você tiver alguma pergunta ou quiser colaborar em projetos interessantes, si
 </div>
 
 ##
+
+# Aqui estão alguns detalhes sobre mim
+
+# 💻 Desenvolvedor Full Stack
+Tenho experiência em desenvolvimento web, aplicativos móveis e sistemas escaláveis.
+# 🎥 Canal no YouTube
+No meu canal <a href="https://www.youtube.com/igorkeven" target="_blank" >Programador Aprendiz</a>, compartilho tutoriais, dicas e truques sobre programação, frameworks e ferramentas.
+# 🌐 Blog e Redes Sociais
+Além do YouTube, você pode me encontrar no meu blog pessoal e nas redes sociais, onde discuto tendências, desafios e oportunidades na área de tecnologia.
+# 📚 Apaixonado por Aprendizado
+Estou sempre estudando e explorando novas tecnologias. Acredito que o aprendizado contínuo é essencial para o sucesso na área de TI.
+##
+Se você tiver alguma pergunta ou quiser colaborar em projetos interessantes, sinta-se à vontade para entrar em contato! 😊🚀
+##
+
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igorkeven&repo=criando-seu-primeiro-site-em-python&theme=algolia)](https://github.com/igorkeven/criando-seu-primeiro-site-em-python)
