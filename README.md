@@ -1,7 +1,17 @@
-## Olá !! Sou o Igor keven , Desenvolvedor de software e ensino programação no meu canal no <a href="https://www.youtube.com/igorkeven">You-Tube</a>
+# Igor Keven - Desenvolvedor de Software e Educador
+Olá! 👋 Sou o Igor Keven, um apaixonado por programação e tecnologia. Meu objetivo é criar soluções inovadoras e compartilhar conhecimento com a comunidade. Aqui estão alguns detalhes sobre mim:
 
-
-<br>
+# 💻 Desenvolvedor Full Stack: 
+Tenho experiência em desenvolvimento web, aplicativos móveis e sistemas escaláveis.
+# 🎥 Canal no YouTube:
+No meu canal <a href="https://www.youtube.com/igorkeven" target="_blank" >Programador Aprendiz</a>, compartilho tutoriais, dicas e truques sobre programação, frameworks e ferramentas.
+# 🌐 Blog e Redes Sociais: 
+Além do YouTube, você pode me encontrar no meu blog pessoal e nas redes sociais, onde discuto tendências, desafios e oportunidades na área de tecnologia.
+# 📚 Apaixonado por Aprendizado:
+Estou sempre estudando e explorando novas tecnologias. Acredito que o aprendizado contínuo é essencial para o sucesso na área de TI.
+##
+Se você tiver alguma pergunta ou quiser colaborar em projetos interessantes, sinta-se à vontade para entrar em contato! 😊🚀
+##
 
 
 <a href="https://igorkeven.github.io/index.html">
